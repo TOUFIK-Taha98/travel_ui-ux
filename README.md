@@ -9,6 +9,9 @@ An immersive travel app built with Next.js and Tailwind CSS, delivering a featur
 ## Description
 Travel Explorer is a feature-rich travel app designed to provide users with an immersive experience in planning their journeys. From exploring new destinations to creating itineraries and making bookings, this app covers it all with a sleek and responsive UI.
 
+## DEMO 
+Open [https://travel-ui-ux-ten.vercel.app/](https://travel-ui-ux-ten.vercel.app/)
+
 ## Installation
 
 To set up the project locally, follow these steps:
